@@ -1,4 +1,4 @@
-namespace AnagramsGrouping;
+﻿namespace AnagramsGrouping;
 
 public class Anagrams
 {
